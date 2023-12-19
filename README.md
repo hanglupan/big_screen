@@ -24,5 +24,9 @@ yarn run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 参考数据：
-http://datav.jiaminghi.com/
-https://echarts.apache.org/zh/option.html
+datav[http://datav.jiaminghi.com/]
+
+echarts[https://echarts.apache.org/zh/option.html]
+
+[https://gitee.com/MTrun/vue-big-screen-plugin/tree/master]
+
